@@ -12,10 +12,10 @@ Steps:
 
 
 Apps Detail
-1.logreg:-
+1.logreg(Login+Register):-
   This would contain login(student + admin), register and dashboard.
   
-2.newreval:-
+2.newreval(New Revaluation):-
   This is where students would make a new revaluation submit.
   
 3.results:-
